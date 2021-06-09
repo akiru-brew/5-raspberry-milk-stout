@@ -39,7 +39,7 @@ With that in mind, I’m going to attempt a raspberry milk stout.
 
 ## Tilt
 
-I now have a tilt hydrometer to give me gravity and temperature readings. Unfortunately I forgot to take a screenshou of the display at the start, but it gave an OG of 1.49. The phone app will be useful to checking the temperate isn’t too high and for spotting when fermentation has stopped, but I really want a graph of alcohol production. I didn’t get around to setting up a [Tilt Pi ](https://tilthydrometer.com/products/tilt-pi-v2-buster-feb20-raspberry-pi-sd-card-image-download)until halfway through the fermentation, but it’s already very informative. Longer term I think I want to build my own Tilt Pi…
+I now have a tilt hydrometer to give me gravity and temperature readings. Unfortunately I forgot to take a screenshot of the display at the start, but it gave an OG of 1.49. The phone app will be useful to checking the temperate isn’t too high and for spotting when fermentation has stopped, but I really want a graph of alcohol production. I didn’t get around to setting up a [Tilt Pi ](https://tilthydrometer.com/products/tilt-pi-v2-buster-feb20-raspberry-pi-sd-card-image-download)until halfway through the fermentation, but it’s already very informative. Longer term I think I want to build my own Tilt Pi…
 
 ![img](brew5sheet.png)
 
